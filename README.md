@@ -7,3 +7,5 @@ We will use the following technologies:
 - CSS
 - Javascript
 
+## Image
+![image](https://github.com/user-attachments/assets/4481b2d2-dacc-44b9-871e-231529a382f2)
